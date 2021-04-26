@@ -1,0 +1,5 @@
+- 👋 Welcome, I’m @Cardrhyme206113
+- 👀 I’m interested in coding, especially javascript, css, html and python
+- 🌱 I’m currently learning on how to setup pterodactyl on a virtual machine
+- 💞️ I’m looking to collaborate on ...
+- 📫 You can reach me trough discord (Card#9999)

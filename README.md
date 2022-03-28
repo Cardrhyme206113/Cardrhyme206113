@@ -11,7 +11,7 @@
 - 💎 Check out my website at https://cardrhyme206113.github.io
 - 🖥️ I also have got a lot of knowledge about computers
 
-![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=cardrhyme206113&repo=hosting)
-![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=cardrhyme206113&repo=Cardrhyme206113.github.io)
-![Repo8](https://github-readme-stats.vercel.app/api/pin/?username=cardrhyme206113&repo=Ro-Scripts)
-![Repo5](https://github-readme-stats.vercel.app/api/pin/?username=cardrhyme206113&repo=Cardrhyme206113)
+![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=cardrhyme206113&repo=hosting&theme=cobalt)
+![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=cardrhyme206113&repo=Cardrhyme206113.github.io&theme=cobalt)
+![Repo8](https://github-readme-stats.vercel.app/api/pin/?username=cardrhyme206113&repo=Ro-Scripts&theme=cobalt)
+![Repo5](https://github-readme-stats.vercel.app/api/pin/?username=cardrhyme206113&repo=Cardrhyme206113&theme=cobalt)

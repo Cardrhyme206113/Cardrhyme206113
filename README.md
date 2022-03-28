@@ -16,5 +16,4 @@
 ![Repo3](https://github-readme-stats.vercel.app/api/pin/?username=cardrhyme206113&repo=music)
 ![Repo5](https://github-readme-stats.vercel.app/api/pin/?username=cardrhyme206113&repo=Cardrhyme206113)
 ![Repo8](https://github-readme-stats.vercel.app/api/pin/?username=cardrhyme206113&repo=Ro-Scripts)
-![Repo9](https://github-readme-stats.vercel.app/api/pin/?username=cardrhyme206113&repo=CssFiles)
 ![Repo10](https://github-readme-stats.vercel.app/api/pin/?username=cardrhyme206113&repo=Minecraft-Scripts)

@@ -1,5 +1,5 @@
 ![Card's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardrhyme206113&show_icons=true&theme=cobalt)
-![Card's Popular Languages](https://github-readme-stats.vercel.app/api/top-langs?username=cardrhyme206113&show_icons=true&theme=cobalt&compact=true)
+![Card's Popular Langs](https://github-readme-stats.vercel.app/api/top-langs?username=cardrhyme206113&show_icons=true&theme=cobalt&compact=true)
 
 - 👋 Welcome, I’m @Cardrhyme206113
 - 👀 I’m interested in coding, especially javascript, css, html and python

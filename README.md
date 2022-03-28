@@ -1,3 +1,5 @@
+![Card's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardrhyme206113&show_icons=true&theme=cobalt)
+
 - 👋 Welcome, I’m @Cardrhyme206113
 - 👀 I’m interested in coding, especially javascript, css, html and python
 - 🌱 I’m currently learning on how to setup pterodactyl on a virtual machine

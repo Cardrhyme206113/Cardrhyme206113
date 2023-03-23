@@ -5,11 +5,9 @@
 
 - 👋 Welcome, I’m @Cardrhyme206113
 - 👀 I’m interested in coding, especially javascript, css, html and python
-- 🌱 I’m currently learning on how to setup pterodactyl on a virtual machine
-- 💞️ I’m looking to collaborate on ... nothing for now
-- 📫 You can reach me trough discord (Card#9999)
-- 💎 Check out my website at https://cardrhyme206113.github.io
-- 🖥️ I also have got a lot of knowledge about computers
+- 🌱 I’m currently learning linux stuff
+- 💞️ I’m looking to collaborate on... nothing for now
+- 📫 You can reach me trough discord (Card#4660)
 
 ![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=cardrhyme206113&repo=hosting&theme=cobalt)
 ![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=cardrhyme206113&repo=Cardrhyme206113.github.io&theme=cobalt)
